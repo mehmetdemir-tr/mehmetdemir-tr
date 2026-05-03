@@ -41,4 +41,4 @@ Kod adı: **Çilek** · Versiyon: 0.1 · Lisans: GPL-3.0
 ## İletişim
 
 - **E-posta:** mehmetd@vuhuv.com
-- **IRC:** gerçek olanı
+- **LinkedIn: [mehmetdemir-tr](https://www.linkedin.com/in/mehmetdemir-tr/)**
