@@ -13,7 +13,7 @@
 ### [Pati](https://github.com/mehmetdemir-tr/Pati) — Mobil OS / Kernel
 
 Linux Kernel tabanlı, tamamen C ile yazılmış bir mobil işletim sistemi.  
-Kod adı: **Çilek** · Versiyon: 0.1 · Lisans: GPL-3.0
+Kod adı: **Ananas** · Versiyon: 1.0-r4 · Lisans: GPL-3.0
 
 **_Çoğu insan önüne geleni kullanır. Ben kendiminkini yazıyorum._**
 
