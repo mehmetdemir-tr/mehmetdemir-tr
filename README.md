@@ -2,7 +2,6 @@
 
 > Sıfırdan bağımsız bir dijital ekosistem inşa ediyorum — kernel'den başlayarak.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat&logo=linux&logoColor=black)
 ![GPL](https://img.shields.io/badge/Lisans-GPL--3.0-blue?style=flat)
 
