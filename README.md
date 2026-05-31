@@ -13,19 +13,12 @@
 ### [Pati](https://github.com/mehmetdemir-tr/Pati) — Mobil OS / Kernel
 
 Linux Kernel tabanlı, tamamen C ile yazılmış bir mobil işletim sistemi.  
-Kod adı: **Ananas** · Versiyon: 1.0-r4 · Lisans: GPL-3.0
+Kod adı: **Ananas** · Versiyon: 2.1-r5 · Lisans: GPL-3.0
 
 **_Çoğu insan önüne geleni kullanır. Ben kendiminkini yazıyorum._**
 
 ---
 
-## Şu an odak noktam
-
-- Kernel modül mimarisi — `pati-services`, `mauvyd`, `shell`
-- Low-level C — bellek yönetimi, process modeli, IPC temelleri
-- Tam bağımsız bir mobil ekosistem hedefi
-
----
 
 ## Stack
 
