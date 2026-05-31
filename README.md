@@ -25,7 +25,7 @@ Kod adı: **Ananas** · Versiyon: 2.1-r5 · Lisans: GPL-3.0
 |---|---|
 | Dil | C (%100) |
 | Temel | Linux Kernel |
-| Hedef platform | Mobil — bare metal |
+| Hedef platform | Mobil — Embedded — bare metal |
 | Araçlar | GCC, Make, GDB |
 
 ---
