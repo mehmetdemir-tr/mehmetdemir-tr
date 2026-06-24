@@ -13,7 +13,7 @@
 Linux Kernel tabanlı, tamamen C ile yazılmış bir mobil işletim sistemi.  
 Kod adı: **Ananas** · Versiyon: 2.1-r5 · Lisans: GPL-3.0
 
-**_Çoğu insan önüne geleni kullanır. Ben kendiminkini yazıyorum._**
+**~_Çoğu insan önüne geleni kullanır. Ben kendiminkini yazıyorum._~**
 
 ---
 
