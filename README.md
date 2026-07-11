@@ -8,7 +8,7 @@
 
 ## Ne inşa ediyorum
 
-### [PatiOS](https://github.com/mehmetdemir-tr/Pati) — Mobil OS (Arşivlendi)
+### [PatiOS](https://github.com/mehmetdemir-tr/PatiOS) — Mobil OS (Legacy)
 
 Linux Kernel tabanlı, tamamen C ile yazılmış bir mobil işletim sistemi.  
 Kod adı: **Ananas** · Versiyon: 2.1-r5 · Lisans: GPL-3.0
