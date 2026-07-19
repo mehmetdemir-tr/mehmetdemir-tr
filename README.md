@@ -8,10 +8,10 @@
 
 ## Ne inşa ediyorum
 
-### [PatiOS](https://github.com/mehmetdemir-tr/PatiOS) — Mobil OS (Legacy)
+### [PatiOS](https://github.com/mehmetdemir-tr/PatiOS-Core) — Linux OS
 
 Linux Kernel tabanlı, tamamen C ile yazılmış bir mobil işletim sistemi.  
-Kod adı: **Ananas** · Versiyon: 2.1-r5 · Lisans: GPL-3.0
+Kod adı: **Watermelon** · Versiyon: 2.6 · Lisans: MIT
 
 **~_Çoğu insan önüne geleni kullanır. Ben kendiminkini yazıyorum._~**
 
@@ -33,3 +33,4 @@ Kod adı: **Ananas** · Versiyon: 2.1-r5 · Lisans: GPL-3.0
 
 - **E-posta:** mehmetd@vuhuv.com
 - **LinkedIn: [mehmetdemir-tr](https://www.linkedin.com/in/mehmetdemir-tr/)**
+RSS: https://mehmetdemirtr.substack.com
