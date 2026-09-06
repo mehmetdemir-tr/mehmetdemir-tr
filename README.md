@@ -6,17 +6,6 @@
 
 ---
 
-## Ne inşa ediyorum
-
-### [PatiOS](https://github.com/mehmetdemir-tr/PatiOS-Core) — Linux OS
-
-Linux Kernel tabanlı, tamamen C ile yazılmış bir mobil işletim sistemi.  
-Kod adı: **Watermelon** · Versiyon: 2.6 · Lisans: MIT
-
-**~_Çoğu insan önüne geleni kullanır. Ben kendiminkini yazıyorum._~**
-
----
-
 
 ## Stack
 
