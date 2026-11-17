@@ -7,11 +7,15 @@
 
 | Katman | Detay |
 |---|---|
-| Dil | C (%100) |
+| Dil | C (%100) | 
 | Temel | Linux Kernel |
 | Hedef platform | Mobil — Embedded — bare metal |
 | Araçlar | GCC, Make, GDB |
 
+<img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
 ---
 
 ## İletişim
